@@ -14,8 +14,8 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black)
 
 > [!CAUTION]
-> Проект устарел и не показывает всю полноту понимания. Актуальный проект — [spring-framework-blog](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jdbc)
-> 
+> Проект устарел и не показывает всю полноту понимания. Актуальный проект — [spring-framework-blog](https://github.com/rukonpin/spring-framework-blog)
+
 ## Краткое описание
 
 Первые 2 приложение (2 версии на [JDBC](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jdbc) и [JPA](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jpa) 
