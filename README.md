@@ -13,9 +13,12 @@
 [![Postman](https://img.shields.io/badge/Postman-logo-FF6C37?logo=postman)](https://www.postman.com/)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black)
 
+> [!CAUTION]
+> Проект устарел и не показывает всю полноту понимания. Актуальный проект — [spring-framework-blog](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jdbc)
+> 
 ## Краткое описание
 
-Первые 2 приложение (2 версии на [JDBC](https://github.com/mant1COREX/pet-projects-java/tree/master/bookkeeping-jdbc) и [JPA](https://github.com/mant1COREX/pet-projects-java/tree/master/bookkeeping-jpa) 
+Первые 2 приложение (2 версии на [JDBC](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jdbc) и [JPA](https://github.com/rukonpin/pet-projects-java/tree/master/bookkeeping-jpa) 
 для учёта читателей и книг — регистрация читателей, CRUD для книг/читателей, выдача и возврат книг. Используется простая валидация.
 
 ### Схема БД (JPA проекта)
@@ -62,14 +65,14 @@ CREATE TABLE Book(
 - `DELETE /books/{id}` — удалить.
 - `GET /books/search` — страница поиска (начальные буквы названия).
 
-![books](https://raw.githubusercontent.com/mant1COREX/pet-projects-java/refs/heads/master/books.gif)
-![people](https://raw.githubusercontent.com/mant1COREX/pet-projects-java/refs/heads/master/people.gif)
-![optional](https://raw.githubusercontent.com/mant1COREX/pet-projects-java/refs/heads/master/optional.gif)
+![books](https://raw.githubusercontent.com/rukonpin/pet-projects-java/refs/heads/master/books.gif)
+![people](https://raw.githubusercontent.com/rukonpin/pet-projects-java/refs/heads/master/people.gif)
+![optional](https://raw.githubusercontent.com/rukonpin/pet-projects-java/refs/heads/master/optional.gif)
 
 
 ------
 
-Проект [Sensors REST API](https://github.com/mant1COREX/pet-projects-java/tree/master/SensorsService),
+Проект [Sensors REST API](https://github.com/rukonpin/pet-projects-java/tree/master/SensorsService),
 который принимает данные от метеорологических сенсоров, сохраняет их в БД, возвращает список измерений и считает количество дождливых дней.
 
 Дополнительно переход на DTO, обработка ошибок
